@@ -1,2 +1,2 @@
 # Libki_HUServer
-Libki Server Hungarian translation
+Libki Server - Hungarian translation
